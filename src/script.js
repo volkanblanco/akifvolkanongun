@@ -20,6 +20,8 @@ const introduction = document.querySelector(".introduction");
                                            |___/             
 */
 
+// thanks to all library developers who make this website real
+
 /**
  * Base
  */
